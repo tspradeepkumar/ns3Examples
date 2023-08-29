@@ -1,16 +1,7 @@
 /*
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License version 2 as
- * published by the Free Software Foundation;
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+Design two wired nodes that can connect to each other through a point-to-point network that handles a data rate of 50mbps and a delay of 5ms. 
+The first node acts as a server and the second node acts as a client and they exchange at least 10 packets in a total simulation time of 20 seconds. 
+The maximum packet size is 1024 bytes and 512 bytes. Plot the throughput of each node for the above packet sizes. (Use any charting solution you are comfortable with).
  */
 
 #include "ns3/applications-module.h"

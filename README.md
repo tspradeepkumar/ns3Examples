@@ -30,3 +30,7 @@ Open another terminal or use the existing terminal
 $ cd 
 $ cd tracemetrics-1.4.0
 $ java -jar tracemetrics.jar
+
+For rip-simple-network.cc 
+follow the video for more details. 
+https://youtu.be/bCXI1GoCIj4
